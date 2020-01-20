@@ -1,5 +1,5 @@
 # dotfiles-experiment
-New experimental dotfiles using chezmoi (https://github.com/twpayne/chezmoi)
+New experimental dotfiles using [chezmoi](https://github.com/twpayne/chezmoi)
 
 ### Linux/Mac Setup
 
