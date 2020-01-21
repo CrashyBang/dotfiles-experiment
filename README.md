@@ -12,6 +12,6 @@ WIP.
 
 ### Windows Setup
 
-
+- Download and install [`git`](https://git-scm.com/download/win).
 - Downolad and install [PowerToys](https://github.com/Microsoft/powertoys/releases).
 - Download [`chezmoi.exe`](https://github.com/twpayne/chezmoi/releases) and move it into: `C:\Windows\system32` (requires admin permisions).
